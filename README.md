@@ -1,4 +1,4 @@
-# Image to ASCII converter for the command line.
+# Image to ASCII converter for the command line
 
 ## Requirements  
 Python's `Pillow` and `numpy` packages.  
