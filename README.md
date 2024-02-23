@@ -6,10 +6,11 @@ To get these packages, run `pip3 install Pillow numpy`
 I recommend you run the command above in a virtual environment created with `python3 -m venv {environment_name}`  
 
 ## Usage:
-Clone the repo. Then, run "python3 image_to_ascii {input_filename} {height} {optional:output_filename}"  
+Clone the repo. Then, run `python3 image_to_ascii {input_filename} {height} {optional:output_filename}`  
 If the output_filename is specified, then the ascii art is written onto that file. Otherwise, ascii art gets printed on the terminal.  
 
-## Examples:
+## Examples:  
+Below are two example output of the code. I used an arbitrary height with these two images, so a different height may result in better quality.  
 
 ### My profile picture:  
 
