@@ -10,7 +10,7 @@ Clone the repo. Then, run `python3 image_to_ascii {input_filename} {height} {opt
 If the output_filename is specified, then the ascii art is written onto that file. Otherwise, ascii art gets printed on the terminal.  
 
 ## Examples:  
-Below are two example output of the code. I used an arbitrary height with these two images, so a different height may result in better quality.  
+Below are two example output of the code. I used arbitrary heights with these two images, so a different height may result in better quality.  
 
 ### My profile picture:  
 
